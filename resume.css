@@ -1,0 +1,44 @@
+body{
+	background-color: #E8DAEF ;
+}
+#main{
+	   
+	background-color: #F1948A    ;
+	margin: 4%;
+	display: flex;
+	justify-content:space-around;
+	border-radius: 6%;
+	
+}
+
+.min{
+	background-color: #FADBD8 ;
+	width: 30%;
+	height: 5%;
+    margin: 4%;
+  border-radius: 5%;
+  text-align: center;
+  box-shadow: 4px 4px 5px 5px;
+}
+.Carrier{
+	background-color: #FADBD8 ;
+	border-radius: 5%;
+	
+	justify-content: space-around;
+    padding: 5%;
+	box-shadow: 4px 4px 5px 5px;
+	 width: 60%;
+	margin: 4%;
+	text-align: left;
+	
+
+}
+
+	
+
+p{
+	font-size: 20px;
+}
+h2{
+	color:black;
+}
